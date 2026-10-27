@@ -32,3 +32,19 @@ main {
 nav {
   margin-top: 0.5rem;
 }
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.hero {
+  padding: 2rem 1rem;
+}
+
+.content {
+  margin-top: 2rem;
+}
+
+footer {
+  text-align: center;
+}
